@@ -16,7 +16,7 @@ class MainKtTest {
             sumTransfer = sumTransfer
         )
 
-        assertEquals(0, result)
+        assertEquals(10, result)
     }
 
     @Test
